@@ -3,6 +3,7 @@ public class TeamCobra
 {
 	public String greet() 
 	{
-		return "Hello Team Cobra! It's nice working with you all!";
+
+		return "Hello Team Cobra! It's nice working with you all!\n>>>>> Team members: Marcquesha, Hina, Kus, Melanie, and Ba";
 	}
 }
